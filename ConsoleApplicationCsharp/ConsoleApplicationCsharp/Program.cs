@@ -10,7 +10,7 @@ namespace ConsoleApplicationCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world;ж");
+            Console.WriteLine("Hello world;;");
         }
     }
 }
